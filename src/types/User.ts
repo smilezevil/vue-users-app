@@ -29,4 +29,6 @@ export interface User {
   phone: string
   picture: string
   dob: UserDob
+  hobbies: string[]
+  details: string
 }
